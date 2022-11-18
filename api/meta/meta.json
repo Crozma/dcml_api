@@ -1,0 +1,22 @@
+{
+    "text": {
+      "schrift": "Verdana",
+      "size": 12
+    },
+    "heading 1": {
+      "schrift": "Calibri Bold",
+      "size": 14
+    },
+    "heading 2": {
+      "schrift": "Calibri Bold",
+      "size": 13
+    },
+    "heading 3": {
+      "schrift": "Calibri Bold",
+      "size": 12
+    },
+    "heading 4": {
+      "schrift": "Calibri Bold",
+      "size": 11
+    }
+  }
